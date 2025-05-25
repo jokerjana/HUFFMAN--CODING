@@ -1,6 +1,6 @@
 # EX-11- Huffman-Coding
-# NAME : JANARTHANAN B
-# REG NO : 212223100014
+## NAME : JANARTHANAN B
+## REG NO : 212223100014
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -87,7 +87,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/f6e4077e-585a-441c-b228-4680632a29a7)
+![Screenshot 2025-05-25 141423](https://github.com/user-attachments/assets/345d8f18-cbb4-4265-bbcb-7dcfc0bba3b3)
 
 
 ## Result
